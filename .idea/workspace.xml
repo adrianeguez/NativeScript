@@ -2,193 +2,530 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5aa341d4-2dad-414e-9508-ed3fd97e73d2" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/.gradle/2.10/taskArtifacts/cache.properties.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/.gradle/2.10/taskArtifacts/fileHashes.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/.gradle/2.10/taskArtifacts/fileSnapshots.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/.gradle/2.10/taskArtifacts/outputFileStates.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/.gradle/2.10/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/android-static-binding-generator/interfacenamegenerator.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/android-static-binding-generator/staticbindinggenerator.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/dts-generator.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/metadata-generator.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/images/apple.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/.gradle/2.10/taskArtifacts/cache.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/.nsprepareinfo" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/android-static-binding-generator/bindings.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/android-static-binding-generator/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/android-static-binding-generator/cached.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/android-static-binding-generator/interfaces-names.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/android-static-binding-generator/jsFilesParameters.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/android-static-binding-generator/parser/helpers/file_helpers.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/android-static-binding-generator/parser/helpers/json_extension.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/android-static-binding-generator/parser/helpers/logger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/android-static-binding-generator/parser/js_parser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/android-static-binding-generator/parser/visitors/es5-visitors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/check-v8-dependants.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/runtime-modules/binding-generator/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build-tools/runtime-modules/runtime/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build.gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/generated/source/buildConfig/F0/debug/org/nativescript/HelloWorld/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/generated/source/r/F0/debug/android/support/design/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/generated/source/r/F0/debug/android/support/transition/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/generated/source/r/F0/debug/android/support/v7/appcompat/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/generated/source/r/F0/debug/android/support/v7/recyclerview/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/generated/source/r/F0/debug/org/nativescript/HelloWorld/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/app.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/main-page.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/main-page.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/css/aqua.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/css/blue.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/css/brown.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/css/core.dark.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/css/core.light.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/css/forest.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/css/grey.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/css/lemon.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/css/lime.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/css/orange.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/css/purple.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/css/ruby.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/css/sky.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/readme.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_action-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_activity-indicator.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_aqua.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_blue.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_brown.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_dark.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_forest.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_grey.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_icons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_labels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_lemon.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_light.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_lime.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_list-view.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_login.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_mixins.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_orange.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_page.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_progress.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_purple.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_ruby.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_segmented-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_side-drawer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_sky.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_slider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_switch.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_tabs.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/bootstrap/_map.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/mixins/_border-radius.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/mixins/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/mixins/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/platforms/_action-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/platforms/_buttons.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/platforms/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/platforms/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/platforms/_labels.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/platforms/_list-view.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/platforms/_segmented-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/platforms/_side-drawer.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/platforms/_slider.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/platforms/_switches.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/aqua/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/aqua/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/blue/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/blue/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/brown/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/brown/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/dark/_action-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/dark/_forms.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/dark/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/dark/_list-view.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/dark/_spacing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/dark/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/forest/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/forest/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/grey/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/grey/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/lemon/_action-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/lemon/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/lemon/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/light/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/light/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/lime/_action-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/lime/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/lime/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/orange/_action-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/orange/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/orange/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/purple/_action-bar.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/purple/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/purple/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/ruby/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/ruby/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/sky/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/skins/sky/_variables.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/utilities/_bootstrap.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/utilities/_colors.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/utilities/_index.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/utilities/_spacing.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/nativescript-theme-core/scss/utilities/_text.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules-widgets/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules-widgets/LICENSE.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules-widgets/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules-widgets/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/application-settings/application-settings-common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/application-settings/application-settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/application-settings/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/application/application-common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/application/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/application/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/bundle-entry-points.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/camera/camera-common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/camera/camera.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/camera/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/color/color-common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/color/color.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/color/known-colors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/color/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/connectivity/connectivity-common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/connectivity/connectivity.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/connectivity/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/console/console.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/console/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/css-value/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/css-value/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/css/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/css/lib/parse/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/css/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/data/observable-array/observable-array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/data/observable-array/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/data/observable/observable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/data/observable/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/data/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/data/virtual-array/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/data/virtual-array/virtual-array.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/debugger/debugger.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/debugger/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/fetch/fetch.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/fetch/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/file-system/file-name-resolver.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/file-system/file-system-access.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/file-system/file-system.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/file-system/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/fps-meter/fps-meter.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/fps-meter/fps-native.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/android/build/intermediates/assets/F0/debug/app/tns_modules/tns-core-modules/fps-meter/package.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitattributes" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-29.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-29@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-29@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-40.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-40@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-40@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-50.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-50@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-57.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-57@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-60@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-60@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-72.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-72@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-76.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-76@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/icon-83.5@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchImage.launchimage/Default-568h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchImage.launchimage/Default-667h@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchImage.launchimage/Default-736h@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchImage.launchimage/Default-Landscape.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchImage.launchimage/Default-Landscape@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchImage.launchimage/Default-Landscape@3x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchImage.launchimage/Default-Portrait.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchImage.launchimage/Default-Portrait@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchImage.launchimage/Default.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchImage.launchimage/Default@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchScreen.AspectFill.imageset/LaunchScreen-AspectFill.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchScreen.AspectFill.imageset/LaunchScreen-AspectFill@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchScreen.Center.imageset/LaunchScreen-Center.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchScreen.Center.imageset/LaunchScreen-Center@2x.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/images/apple.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/NativeScript.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/NativeScript.framework/NativeScript" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/TKLiveSync.framework/Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/TKLiveSync.framework/TKLiveSync" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/bin/objc-metadata-generator" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/.nsprepareinfo" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld.xcodeproj/project.pbxproj" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld.xcodeproj/xcshareddata/xcschemes/HelloWorld.xcscheme" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/HelloWorld-Info.plist" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/HelloWorld-Prefix.pch" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/AppIcon.appiconset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchImage.launchimage/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchScreen.AspectFill.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/Assets.xcassets/LaunchScreen.Center.imageset/Contents.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/LaunchScreen.storyboard" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/Resources/build.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/app.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/main-page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/main-page.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/css/aqua.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/css/blue.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/css/brown.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/css/core.dark.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/css/core.light.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/css/forest.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/css/grey.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/css/lemon.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/css/lime.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/css/orange.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/css/purple.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/css/ruby.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/css/sky.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/readme.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_action-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_activity-indicator.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_aqua.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_blue.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_brown.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_dark.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_forest.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_grey.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_icons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_lemon.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_light.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_lime.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_list-view.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_login.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_mixins.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_orange.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_page.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_progress.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_purple.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_ruby.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_segmented-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_side-drawer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_sky.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_slider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_switch.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_tabs.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/bootstrap/_map.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/mixins/_border-radius.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/mixins/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/mixins/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/platforms/_buttons.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/platforms/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/platforms/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/platforms/_labels.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/platforms/_list-view.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/platforms/_segmented-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/platforms/_side-drawer.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/platforms/_slider.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/platforms/_switches.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/aqua/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/aqua/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/blue/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/blue/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/brown/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/brown/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/dark/_action-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/dark/_forms.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/dark/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/dark/_list-view.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/dark/_spacing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/dark/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/forest/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/forest/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/grey/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/grey/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/lemon/_action-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/lemon/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/lemon/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/light/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/light/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/lime/_action-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/lime/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/lime/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/orange/_action-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/orange/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/orange/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/purple/_action-bar.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/purple/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/purple/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/ruby/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/ruby/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/sky/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/skins/sky/_variables.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/utilities/_bootstrap.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/utilities/_colors.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/utilities/_index.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/utilities/_spacing.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/nativescript-theme-core/scss/utilities/_text.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules-widgets/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules-widgets/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules-widgets/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules-widgets/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/LICENSE" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/application-settings/application-settings-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/application-settings/application-settings.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/application-settings/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/application/application-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/application/application.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/application/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/bundle-entry-points.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/camera/camera-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/camera/camera.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/camera/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/color/color-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/color/color.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/color/known-colors.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/color/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/connectivity/connectivity-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/connectivity/connectivity.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/connectivity/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/console/console.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/console/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/css-value/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/css-value/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/css/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/css/lib/parse/index.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/css/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/data/observable-array/observable-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/data/observable-array/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/data/observable/observable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/data/observable/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/data/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/data/virtual-array/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/data/virtual-array/virtual-array.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/debugger/InspectorBackendCommands.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/debugger/debugger.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/debugger/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/debugger/webinspector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/fetch/fetch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/fetch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/file-system/file-name-resolver.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/file-system/file-system-access.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/file-system/file-system.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/file-system/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/fps-meter/fps-meter.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/fps-meter/fps-native.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/fps-meter/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/globals/decorators.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/globals/globals.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/globals/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/http/http-request.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/http/http.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/http/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/image-asset/image-asset-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/image-asset/image-asset.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/image-asset/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/image-source/image-source-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/image-source/image-source.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/image-source/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/inspector_modules.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/js-libs/easysax/easysax.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/js-libs/easysax/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/js-libs/esprima/esprima.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/js-libs/esprima/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/js-libs/polymer-expressions/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/js-libs/polymer-expressions/path-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/js-libs/polymer-expressions/polymer-expressions.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/location/location-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/location/location.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/location/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/platform/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/platform/platform.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/text/formatted-string-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/text/formatted-string.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/text/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/text/span-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/text/span.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/text/text.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/timer/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/timer/timer.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/trace/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/trace/trace.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/action-bar/action-bar-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/action-bar/action-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/action-bar/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/activity-indicator/activity-indicator-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/activity-indicator/activity-indicator.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/activity-indicator/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/animation/animation-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/animation/animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/animation/keyframe-animation.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/animation/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/border/border.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/border/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/builder/binding-builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/builder/builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/builder/component-builder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/builder/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/builder/special-properties.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/button/button-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/button/button.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/button/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/content-view/content-view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/content-view/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/core/bindable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/core/control-state-change.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/core/dependency-observable.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/core/proxy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/core/view-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/core/view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/core/weak-event-listener.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/date-picker/date-picker-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/date-picker/date-picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/date-picker/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/dialogs/dialogs-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/dialogs/dialogs.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/dialogs/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/editable-text-base/editable-text-base-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/editable-text-base/editable-text-base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/editable-text-base/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/enums/enums.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/enums/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/frame/frame-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/frame/frame.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/frame/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/gestures/gestures-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/gestures/gestures.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/gestures/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/html-view/html-view-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/html-view/html-view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/html-view/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/image-cache/image-cache-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/image-cache/image-cache.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/image-cache/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/image/image-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/image/image.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/image/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/label/label-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/label/label.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/label/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/absolute-layout/absolute-layout-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/absolute-layout/absolute-layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/absolute-layout/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/dock-layout/dock-layout-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/dock-layout/dock-layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/dock-layout/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/flexbox-layout/flexbox-layout-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/flexbox-layout/flexbox-layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/flexbox-layout/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/grid-layout/grid-layout-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/grid-layout/grid-layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/grid-layout/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/layout-base-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/layout-base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/stack-layout/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/stack-layout/stack-layout-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/stack-layout/stack-layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/wrap-layout/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/wrap-layout/wrap-layout-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/layouts/wrap-layout/wrap-layout.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/list-picker/list-picker-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/list-picker/list-picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/list-picker/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/list-view/list-view-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/list-view/list-view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/list-view/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/page/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/page/page-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/page/page.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/placeholder/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/placeholder/placeholder-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/placeholder/placeholder.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/progress/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/progress/progress-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/progress/progress.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/proxy-view-container/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/proxy-view-container/proxy-view-container.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/repeater/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/repeater/repeater.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/scroll-view/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/scroll-view/scroll-view-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/scroll-view/scroll-view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/search-bar/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/search-bar/search-bar-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/search-bar/search-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/segmented-bar/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/segmented-bar/segmented-bar-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/segmented-bar/segmented-bar.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/slider/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/slider/slider-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/slider/slider.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/styling/background-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/styling/background.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/styling/converters.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/styling/css-animation-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/styling/css-selector-parser.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/styling/css-selector.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/styling/font-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/styling/font.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/styling/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/styling/style-property.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/styling/style-scope.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/styling/style.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/styling/styling.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/switch/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/switch/switch-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/switch/switch.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/tab-view/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/tab-view/tab-view-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/tab-view/tab-view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/text-base/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/text-base/text-base-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/text-base/text-base-styler.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/text-base/text-base.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/text-field/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/text-field/text-field-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/text-field/text-field.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/text-view/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/text-view/text-view-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/text-view/text-view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/time-picker/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/time-picker/time-picker-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/time-picker/time-picker.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/transition/fade-transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/transition/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/transition/slide-transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/transition/transition.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/web-view/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/web-view/web-view-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/ui/web-view/web-view.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/utils/debug-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/utils/debug.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/utils/lazy.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/utils/module-merge.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/utils/number-utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/utils/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/utils/types.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/utils/utils-common.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/utils/utils.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/xhr/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/xhr/xhr.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/xml/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/app/tns_modules/tns-core-modules/xml/xml.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/build-debug.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/build-release.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/build.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/HelloWorld/en.lproj/InfoPlist.strings" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/build/prepared-platforms.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/NativeScript.framework/Headers/NativeScript.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/NativeScript.framework/Headers/TNSRuntime+Diagnostics.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/NativeScript.framework/Headers/TNSRuntime+Inspector.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/NativeScript.framework/Headers/TNSRuntime.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/TKLiveSync.framework/Headers/TKLiveSync.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/TKLiveSync.framework/Modules/module.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/TNSDebugging.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/TNSExceptionHandler.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/main.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/bin/build-step-metadata-generator.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/asan_blacklist.txt" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__clang_cuda_cmath.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__clang_cuda_intrinsics.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__clang_cuda_math_forward_declares.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__clang_cuda_runtime_wrapper.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__stddef_max_align_t.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__wmmintrin_aes.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/__wmmintrin_pclmul.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/adxintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/altivec.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/ammintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/arm_acle.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/arm_neon.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx2intrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512bwintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512cdintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512dqintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512erintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512fintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512ifmaintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512ifmavlintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512pfintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vbmiintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vbmivlintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vlbwintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vlcdintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vldqintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avx512vlintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/avxintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/bmi2intrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/bmiintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/clflushoptintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/cpuid.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/cuda_builtin_vars.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/emmintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/f16cintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/float.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/fma4intrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/fmaintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/fxsrintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/htmintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/htmxlintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/ia32intrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/immintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/intrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/inttypes.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/iso646.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/limits.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/lzcntintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/mm3dnow.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/mm_malloc.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/mmintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/module.modulemap" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/mwaitxintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/nmmintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/omp.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/opencl-c.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/pkuintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/pmmintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/popcntintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/prfchwintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/rdseedintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/rtmintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/s390intrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/allocator_interface.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/asan_interface.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/common_interface_defs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/coverage_interface.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/dfsan_interface.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/esan_interface.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/linux_syscall_hooks.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/lsan_interface.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/msan_interface.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/sanitizer/tsan_interface_atomic.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/shaintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/smmintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdalign.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdarg.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdatomic.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdbool.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stddef.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdint.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/stdnoreturn.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/tbmintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/tgmath.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/tmmintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/unwind.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/vadefs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/varargs.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/vecintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/wmmintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/x86intrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xmmintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xopintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xsavecintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xsaveintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xsaveoptintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xsavesintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/metadata-generator/lib/clang/3.9.0/include/xtestintrin.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/nativescript-build.xcconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/nativescript-post-build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/nativescript-pre-build" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/nativescript-pre-link" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/internal/strip-dynamic-framework-architectures.sh" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HelloWorld/platforms/ios/plugins-debug.xcconfig" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/app/App_Resources/Android/app.gradle" afterPath="$PROJECT_DIR$/HelloWorld/app/App_Resources/Android/app.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HelloWorld/package.json" afterPath="$PROJECT_DIR$/HelloWorld/package.json" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
@@ -205,7 +542,7 @@
     <option name="PATCH_PATH" value="" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file leaf-file-name=".gitattributes" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/.gitattributes">
           <provider selected="true" editor-type-id="text-editor">
@@ -216,11 +553,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="main-page.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="main-page.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/HelloWorld/app/main-page.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="148">
               <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="package.json" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/HelloWorld/package.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="296">
+              <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -236,6 +583,7 @@
       <list>
         <option value="$PROJECT_DIR$/.gitattributes" />
         <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/HelloWorld/package.json" />
       </list>
     </option>
   </component>
@@ -271,7 +619,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -362,6 +709,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -406,6 +754,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.npm" factoryName="npm">
@@ -440,30 +794,31 @@
       <option name="presentableId" value="Default" />
       <updated>1489249827994</updated>
       <workItem from="1489249830989" duration="1731000" />
+      <workItem from="1489255255467" duration="118000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1731000" />
+    <option name="totallyTimeSpent" value="1849000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-9" y="-9" width="1924" height="1048" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973767" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32955715" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32955715" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
     </layout>
@@ -479,11 +834,26 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitattributes">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="12" column="23" lean-forward="false" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/app/main-page.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="84">
           <caret line="40" column="12" lean-forward="false" selection-start-line="40" selection-start-column="12" selection-end-line="40" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -499,6 +869,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HelloWorld/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="296">
+          <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
       </provider>
