@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-v4-25.2.0_c79e33d47b95bfcae3013e180c8518f4bd0be79c.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\exploded-aar\HelloWorldTypeScript\runtime\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="632bf39700c28ba66c117628dab343126ef89551">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\HelloWorldTypeScript-runtime-unspecified_af8daf115d6342c64815bf3ba8fa2a35341fbd0f.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-design-25.2.0_909126c73fe3f880fb266d593ecefc8b44020276.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-compat-25.2.0_e9f6a38a1e9987ccdcd169a5f06bbc77f9d924cd.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-utils-25.2.0_1c08b315ee39290eb6ccbb1059cfdaeea9bfb9e5.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adrian\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\support-annotations-25.2.0_955177211a887409518f0a711fd00ead739238ff.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\exploded-aar\HelloWorldTypeScript\runtime\unspecified\jars\libs\binding-generator.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="d82f3ca98719f09b65db6aeaf450ad3bafc46e81">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\binding-generator_55024ddc76f3653bb3c5be4b6ce0d5976df14069.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-animated-vector-drawable-25.2.0_8570961564911bbb1bb92c7981c1d2625a17b3b4.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-vector-drawable-25.2.0_923c7ea60564b108676e041afc9b7abebb0bcb14.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-recyclerview-v7-25.2.0_7a6a362b9d8b10ad0a142f5c1b9b5f98a7e22b36.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-appcompat-v7-25.2.0_1b9da6a5de16bec0ff776d00b57d1aa4f9159806.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\exploded-aar\widgets-release\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8a73b09319cc3945912970487ced4c7724acc97d">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\intermediates-exploded-aar-widgets-release_5de7ca4b76cb87e4dd09a14a658fada09dce0445.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-fragment-25.2.0_79ea93bafcf8c7031f1af4a6831022f1fb849eab.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-transition-25.2.0_21f71b38e88f98812e7aa5a3ebaec53b133bb651.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-media-compat-25.2.0_6be6559f573fded8672b679fea523591d8ad66a3.jar" />
+    </item>
+    <item
+        jar="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Adrian\Documents\GitHub\NativeScript\HelloWorldTypeScript\platforms\android\build\intermediates\pre-dexed\F0\debug\com.android.support-support-core-ui-25.2.0_9adeb60593310e0c3b360b187106b01ae546bd05.jar" />
+    </item>
+
+</items>
